@@ -30,13 +30,13 @@ Sunday       123 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -53,7 +53,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2022 18:42:04 UTC
+ Last Updated on 25/01/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
