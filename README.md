@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -52,7 +52,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:51:04 UTC
+ Last Updated on 05/01/2026 18:55:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
