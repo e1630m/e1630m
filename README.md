@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2027%20mins-blue?style=flat)
-
 **I Mostly Code in Python** 
 
 ```text
@@ -16,7 +14,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:33:25 UTC
+ Last Updated on 28/05/2026 20:43:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
